@@ -97,6 +97,10 @@
     font-size:1.1rem;
 }
 
+.box:hover{
+    transform: scale(.9);
+}
+
 /* About */
 #about {
     display:flex;
